@@ -1,6 +1,7 @@
 import { sumOfLength } from "./homework1"
 import { multipleAndSum } from "./homework1"
 import { jest } from '@jest/globals';
+
 describe("sum", () => {
     it('it is a function', function () {
         expect(sumOfLength).toBeInstanceOf(Function)
