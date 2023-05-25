@@ -8,7 +8,7 @@ export function addNumbersBetween(a, b) {
 
     console.log(sum)
 }
-
+ 
 addNumbersBetween(50, 100)
 
 export function multiplicationTableFor(a) {
